@@ -1,0 +1,17 @@
+# ignore everything
+/*
+/*/
+
+# but follow these:
+!/alacritty/
+!/i3/
+!/ranger/
+/ranger/plugins/*
+!/fish/
+!/nvim/
+/nvim/autoload/*
+/nvim/plugged/*
+/nvim/tmp/*
+!/omf/
+!/.gitignore
+!/README.md

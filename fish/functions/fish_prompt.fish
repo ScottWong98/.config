@@ -1,0 +1,1 @@
+/home/scott/.local/share/omf/themes/gentoo/fish_prompt.fish
